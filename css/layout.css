@@ -1,6 +1,7 @@
 .d-none{
     display: none;
 }
+
 .logo{
     width: 100px;
     margin: 50px auto;
@@ -109,17 +110,14 @@ td{
 aside{
     background: #000;
 }
-.aside-wrap{
+.aside-wrap aside{
     color: white;
     text-align: center;
-    padding: 15px 0;
-    font-size: 15px;
-
+    padding: 25px 0;
+    
 }
 
-/*.aside-wrap a{
-    margin: 0 8px;
-}*/
+
 .aside-wrap a::after{
     content: '|';
     margin: 0 0 0 10px;
